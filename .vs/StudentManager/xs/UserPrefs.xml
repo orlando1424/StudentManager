@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2598DB7D-054C-4710-A5BD-31BF02DEF983}|Default">
+  <MonoDevelop.Ide.ItemProperties.StudentManager.Website PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentManager.Website/Program.cs">
+    <Files>
+      <File FileName="StudentManager.Website/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="StudentManager.Website/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudentManager" expanded="True">
+            <Node name="StudentManager.BL" expanded="True" />
+            <Node name="StudentManager.Website" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.StudentManager.BL FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
