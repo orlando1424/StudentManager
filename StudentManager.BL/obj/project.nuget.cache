@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gOJZf7vJenR/tITTdwvfBzWeE7pw1JAR3O16dLjq5LjqcE4rK+gEn4+mwylr2d1+EakKpuRaXUuGjL8KW4ICDw==",
+  "dgSpecHash": "PyhoS9Alp5B+tKCLWuNCD10fLznKbyyq1mUqMBfyM8kzGoN1VUxhE/ANpT+xLX37wzRD+zXFxozQddBsT1FBZA==",
   "success": true,
-  "projectFilePath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj",
+  "projectFilePath": "D:\\Repos\\Student Management\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
