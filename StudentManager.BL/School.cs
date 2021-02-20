@@ -5,12 +5,16 @@ namespace StudentManager.BL
 {
     public class School
     {
-        public IEnumerable<Student> students { get; set; }
-        public IEnumerable<Program> programs { get; set; }
+        private IEnumerable<Student> students { get; set; }
+        private IEnumerable<Program> programs { get; set; }
 
         public School(Student student, Program program)
         {
-          
+            List<Student> studentList = new List<Student>();
+            studentList.Add(student);
+
+            List<Program> programList = new List<Program>();
+            programList.Add(program);
 
         }
 

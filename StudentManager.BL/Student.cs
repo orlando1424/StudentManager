@@ -6,8 +6,18 @@ namespace StudentManager.BL
 {
     public class Student
     {
-        public long id { get; set; }
-        public string name { get; set; }
-        public Program program { get; set; }
+        private long ID { get; set; }
+        private string Name { get; set; }
+        private Program Program { get; set; }
+
+        public void SetStudent(long id, string name, Program program)
+        {
+            ID = id;
+            Name = name;
+            Program = program;
+        }
+
+        
+        
     }
 }
