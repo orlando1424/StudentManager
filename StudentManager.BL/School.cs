@@ -38,14 +38,16 @@ namespace StudentManager.BL
 
         }
 
-       /* public School GetStudents()
+        public string GetStudents()
         {
-            foreach (var student in Students)
-            {
-                return student.ToString();
-            }
+            return Students.ToString();
 
-        } */
+        }
+
+        public string GetPrograms()
+        {
+            return Programs.ToString();
+        }
 
     }
 }

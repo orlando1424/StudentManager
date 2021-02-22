@@ -1,14 +1,14 @@
 ﻿using System;
 using StudentManager.BL;
-
+using StudentManager.Console;
 
 namespace StudentManager.Console
 {
-    class Test
+    public class Test
     {
         static void Main(string[] args)
         {
-         
+          
         }
     }
 }
