@@ -3,17 +3,16 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="StudentManager.BL/School.cs">
     <Files>
       <File FileName="StudentManager.Website/Controllers/HomeController.cs" Line="1" Column="1" />
-      <File FileName="StudentManager.Website/Program.cs" Line="27" Column="1" />
-      <File FileName="StudentManager.BL/Program.cs" Line="1" Column="1" />
-      <File FileName="StudentManager.BL/School.cs" Line="11" Column="31" />
+      <File FileName="StudentManager.Website/Program.cs" />
+      <File FileName="StudentManager.BL/Program.cs" />
+      <File FileName="StudentManager.BL/School.cs" Line="41" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StudentManager" expanded="True">
-            <Node name="StudentManager.BL" expanded="True">
-              <Node name="School.cs" selected="True" />
-            </Node>
+            <Node name="StudentManager.BL" expanded="True" />
+            <Node name="StudentManager.Console" selected="True" />
             <Node name="StudentManager.Website" expanded="True">
               <Node name="Controllers" expanded="True" />
             </Node>
