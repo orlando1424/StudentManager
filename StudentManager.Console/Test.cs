@@ -10,6 +10,8 @@ namespace StudentManager.Console
         {
             School school = new School();
             school.GetAllStudents();
+
+            school.GetAllPrograms();
         }
     }
 }
