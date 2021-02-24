@@ -16,10 +16,16 @@ namespace StudentManager.BL
             Programs = new List<Program>();
 
             // Current Programs
+<<<<<<< Updated upstream
             Program program1 = new Program() { id = 1, name = "Quantum Physics" };
             Program program2 = new Program() { id = 2, name = "C# - Intro" };
             Program program3 = new Program() { id = 3, name = "SQL and Databases" };
             Program program4 = new Program() { id = 4, name = ".NET and MVC" };
+=======
+            Program program1 = new Program() { Id = 1, Name = "Quantum Physics" };
+            Program program2 = new Program() { Id = 2, Name = "C# - Intro" };
+            Program program3 = new Program() { Id = 3, Name = ".NET Development" };
+>>>>>>> Stashed changes
 
             // add programs to the Programs List
             Programs.Add(program1);

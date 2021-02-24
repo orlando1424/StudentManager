@@ -6,8 +6,8 @@ namespace StudentManager.BL
 {
    public class Program
     {
-        public long id { get; set; }
-        public string name { get; set; }
+        public long Id { get; set; }
+        public string Name { get; set; }
         //private IEnumerable<Student> students { get; set; }
     }
 }
