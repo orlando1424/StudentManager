@@ -45,15 +45,25 @@ namespace StudentManager.BL
 
         }
 
-        public string GetStudents()
+        public void GetAllStudents()
         {
-            return Students.ToString();
+
+            foreach (var student in Students)
+            {
+                Console.WriteLine(student.ID);
+                Console.WriteLine(student.Name);
+                Console.WriteLine($"{student.Program.Id} : {student.Program.Name}");
+            }
 
         }
 
-        public string GetPrograms()
+        public void GetAllPrograms()
         {
-            return Programs.ToString();
+            foreach (var program in Programs)
+            {
+                Console.WriteLine(program.Id);
+                Console.WriteLine(program.Name);
+            }
         }
 
     }

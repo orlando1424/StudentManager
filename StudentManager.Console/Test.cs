@@ -8,7 +8,8 @@ namespace StudentManager.Console
     {
         static void Main(string[] args)
         {
-          
+            School school = new School();
+            school.GetAllStudents();
         }
     }
 }
