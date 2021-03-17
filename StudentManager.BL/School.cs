@@ -66,5 +66,10 @@ namespace StudentManager.BL
             }
         }
 
+        //public Student AddStudent(int id, string name, Program program)
+        //{
+
+        //}
+
     }
 }
