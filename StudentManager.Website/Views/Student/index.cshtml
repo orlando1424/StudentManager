@@ -1,9 +1,9 @@
 ﻿@model List<StudentManager.BL.Student>
 @{
-    ViewData["Title"] = "index";
+    ViewData["Title"] = "List of Students:";
 }
 
-<h1>index</h1>
+<h1>@ViewData["Title"]</h1>
 <ul>
     @foreach (var item in Model)
     {
