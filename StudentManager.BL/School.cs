@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace StudentManager.BL
 {
@@ -45,31 +46,25 @@ namespace StudentManager.BL
 
         }
 
-        public void GetAllStudents()
+        public List<Student> GetAllStudents() => Students;
+
+        public List<Program> GetAllPrograms() => Programs;
+
+        public void AddStudent(int id, string name, Program program)
         {
-
-            foreach (var student in Students)
-            {
-                Console.WriteLine(student.ID);
-                Console.WriteLine(student.Name);
-                Console.WriteLine($"{student.Program.Id} : {student.Program.Name}");
-            }
-
+            Students.Add(new Student() { ID = id, Name = name, Program = program });
         }
 
-        public void GetAllPrograms()
+        public Student GetStudentById(int id)
         {
-            foreach (var program in Programs)
-            {
-                Console.WriteLine(program.Id);
-                Console.WriteLine(program.Name);
-            }
+            return Students.SingleOrDefault(s => s.ID == id);
         }
 
-        //public Student AddStudent(int id, string name, Program program)
-        //{
-
-        //}
+        public void DeleteStudent(int id)
+        {
+            Student delStudent = GetStudentById(id);
+            Students.Remove(delStudent);
+        }
 
     }
 }

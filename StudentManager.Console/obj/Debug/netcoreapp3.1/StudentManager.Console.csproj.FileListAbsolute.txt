@@ -1,16 +1,31 @@
-D:\Repos\Student Management\StudentManager\StudentManager.Console\bin\Debug\netcoreapp3.1\StudentManager.Console.exe
-D:\Repos\Student Management\StudentManager\StudentManager.Console\bin\Debug\netcoreapp3.1\StudentManager.Console.deps.json
-D:\Repos\Student Management\StudentManager\StudentManager.Console\bin\Debug\netcoreapp3.1\StudentManager.Console.runtimeconfig.json
-D:\Repos\Student Management\StudentManager\StudentManager.Console\bin\Debug\netcoreapp3.1\StudentManager.Console.runtimeconfig.dev.json
-D:\Repos\Student Management\StudentManager\StudentManager.Console\bin\Debug\netcoreapp3.1\StudentManager.Console.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Console\bin\Debug\netcoreapp3.1\StudentManager.Console.pdb
-D:\Repos\Student Management\StudentManager\StudentManager.Console\bin\Debug\netcoreapp3.1\StudentManager.BL.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Console\bin\Debug\netcoreapp3.1\StudentManager.BL.pdb
-D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netcoreapp3.1\StudentManager.Console.csprojAssemblyReference.cache
-D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netcoreapp3.1\StudentManager.Console.AssemblyInfoInputs.cache
-D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netcoreapp3.1\StudentManager.Console.AssemblyInfo.cs
-D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netcoreapp3.1\StudentManager.Console.csproj.CoreCompileInputs.cache
-D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netcoreapp3.1\StudentManager.Console.csproj.CopyComplete
-D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netcoreapp3.1\StudentManager.Console.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netcoreapp3.1\StudentManager.Console.pdb
-D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netcoreapp3.1\StudentManager.Console.genruntimeconfig.cache
+D:/Repos/Student Management/StudentManager/StudentManager.Console/bin/Debug/netcoreapp3.1/StudentManager.Console.exe
+D:/Repos/Student Management/StudentManager/StudentManager.Console/bin/Debug/netcoreapp3.1/StudentManager.Console.deps.json
+D:/Repos/Student Management/StudentManager/StudentManager.Console/bin/Debug/netcoreapp3.1/StudentManager.Console.runtimeconfig.json
+D:/Repos/Student Management/StudentManager/StudentManager.Console/bin/Debug/netcoreapp3.1/StudentManager.Console.runtimeconfig.dev.json
+D:/Repos/Student Management/StudentManager/StudentManager.Console/bin/Debug/netcoreapp3.1/StudentManager.Console.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Console/bin/Debug/netcoreapp3.1/StudentManager.Console.pdb
+D:/Repos/Student Management/StudentManager/StudentManager.Console/bin/Debug/netcoreapp3.1/StudentManager.BL.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Console/bin/Debug/netcoreapp3.1/StudentManager.BL.pdb
+D:/Repos/Student Management/StudentManager/StudentManager.Console/obj/Debug/netcoreapp3.1/StudentManager.Console.csprojAssemblyReference.cache
+D:/Repos/Student Management/StudentManager/StudentManager.Console/obj/Debug/netcoreapp3.1/StudentManager.Console.AssemblyInfoInputs.cache
+D:/Repos/Student Management/StudentManager/StudentManager.Console/obj/Debug/netcoreapp3.1/StudentManager.Console.AssemblyInfo.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Console/obj/Debug/netcoreapp3.1/StudentManager.Console.csproj.CoreCompileInputs.cache
+D:/Repos/Student Management/StudentManager/StudentManager.Console/obj/Debug/netcoreapp3.1/StudentManager.Console.csproj.CopyComplete
+D:/Repos/Student Management/StudentManager/StudentManager.Console/obj/Debug/netcoreapp3.1/StudentManager.Console.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Console/obj/Debug/netcoreapp3.1/StudentManager.Console.pdb
+D:/Repos/Student Management/StudentManager/StudentManager.Console/obj/Debug/netcoreapp3.1/StudentManager.Console.genruntimeconfig.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/bin/Debug/netcoreapp3.1/StudentManager.Console.deps.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/bin/Debug/netcoreapp3.1/StudentManager.Console.runtimeconfig.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/bin/Debug/netcoreapp3.1/StudentManager.Console.runtimeconfig.dev.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/bin/Debug/netcoreapp3.1/StudentManager.Console.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/bin/Debug/netcoreapp3.1/StudentManager.Console.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/bin/Debug/netcoreapp3.1/StudentManager.BL.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/bin/Debug/netcoreapp3.1/StudentManager.BL.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/obj/Debug/netcoreapp3.1/StudentManager.Console.csprojAssemblyReference.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/obj/Debug/netcoreapp3.1/StudentManager.Console.AssemblyInfoInputs.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/obj/Debug/netcoreapp3.1/StudentManager.Console.AssemblyInfo.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/obj/Debug/netcoreapp3.1/StudentManager.Console.csproj.CoreCompileInputs.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/obj/Debug/netcoreapp3.1/StudentManager.Console.csproj.CopyComplete
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/obj/Debug/netcoreapp3.1/StudentManager.Console.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/obj/Debug/netcoreapp3.1/StudentManager.Console.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/obj/Debug/netcoreapp3.1/StudentManager.Console.genruntimeconfig.cache

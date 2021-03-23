@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using StudentManager.BL;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +12,10 @@ namespace StudentManager.Website.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            School school = new School();
+            return View(school.GetAllStudents());
         }
+
+        
     }
 }
