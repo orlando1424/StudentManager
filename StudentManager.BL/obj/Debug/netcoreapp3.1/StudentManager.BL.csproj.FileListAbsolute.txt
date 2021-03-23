@@ -16,3 +16,12 @@ D:/Repos/Student Management/StudentManager/StudentManager.BL/obj/Debug/netcoreap
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/bin/Debug/netcoreapp3.1/StudentManager.BL.deps.json
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/bin/Debug/netcoreapp3.1/StudentManager.BL.dll
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/bin/Debug/netcoreapp3.1/StudentManager.BL.pdb
+C:\Users\2000207986\Documents\Repos\StudentManager\StudentManager\StudentManager.BL\bin\Debug\netcoreapp3.1\StudentManager.BL.deps.json
+C:\Users\2000207986\Documents\Repos\StudentManager\StudentManager\StudentManager.BL\bin\Debug\netcoreapp3.1\StudentManager.BL.dll
+C:\Users\2000207986\Documents\Repos\StudentManager\StudentManager\StudentManager.BL\bin\Debug\netcoreapp3.1\StudentManager.BL.pdb
+C:\Users\2000207986\Documents\Repos\StudentManager\StudentManager\StudentManager.BL\obj\Debug\netcoreapp3.1\StudentManager.BL.csprojAssemblyReference.cache
+C:\Users\2000207986\Documents\Repos\StudentManager\StudentManager\StudentManager.BL\obj\Debug\netcoreapp3.1\StudentManager.BL.AssemblyInfoInputs.cache
+C:\Users\2000207986\Documents\Repos\StudentManager\StudentManager\StudentManager.BL\obj\Debug\netcoreapp3.1\StudentManager.BL.AssemblyInfo.cs
+C:\Users\2000207986\Documents\Repos\StudentManager\StudentManager\StudentManager.BL\obj\Debug\netcoreapp3.1\StudentManager.BL.csproj.CoreCompileInputs.cache
+C:\Users\2000207986\Documents\Repos\StudentManager\StudentManager\StudentManager.BL\obj\Debug\netcoreapp3.1\StudentManager.BL.dll
+C:\Users\2000207986\Documents\Repos\StudentManager\StudentManager\StudentManager.BL\obj\Debug\netcoreapp3.1\StudentManager.BL.pdb

@@ -12,7 +12,7 @@ namespace StudentManager.Console
             School school = new School();
             
             DisplayStudents(school.GetAllStudents());
-            school.AddStudent(1, "Joe Smith", new Program() { Id = 100, Name = "Corey's Amazing Course" });
+            school.AddStudent(6, "Joe Smith", new Program() { Id = 100, Name = "Corey's Amazing Course" });
             DisplayStudents(school.GetAllStudents());
         }
 

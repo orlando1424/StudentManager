@@ -10,12 +10,12 @@ namespace StudentManager.BL
         public string Name { get; set; }
         public Program Program { get; set; }
 
-        public void SetStudent(long id, string name, Program program)
-        {
-            ID = id;
-            Name = name;
-            Program = program;
-        }
+        //public void SetStudent(long id, string name, Program program)
+        //{
+        //    ID = id;
+        //    Name = name;
+        //    Program = program;
+        //}
 
         
         
