@@ -1,7 +1,14 @@
-﻿
+﻿@model List<StudentManager.BL.Student>
 @{
     ViewData["Title"] = "index";
 }
 
 <h1>index</h1>
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Name</li>
+    }
+</ul>
+
 

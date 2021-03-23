@@ -91,172 +91,250 @@
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.dll
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.pdb
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.genruntimeconfig.cache
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\app.db
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\StudentManager.Website.StaticWebAssets.xml
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\StudentManager.Website.exe
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\StudentManager.Website.deps.json
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\StudentManager.Website.runtimeconfig.json
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\StudentManager.Website.runtimeconfig.dev.json
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\StudentManager.Website.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\StudentManager.Website.pdb
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\StudentManager.Website.Views.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\StudentManager.Website.Views.pdb
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.csprojAssemblyReference.cache
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.AssemblyInfoInputs.cache
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.AssemblyInfo.cs
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.csproj.CoreCompileInputs.cache
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.MvcApplicationPartsAssemblyInfo.cs
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.MvcApplicationPartsAssemblyInfo.cache
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.RazorAssemblyInfo.cache
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.RazorAssemblyInfo.cs
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\staticwebassets\StudentManager.Website.StaticWebAssets.Manifest.cache
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\staticwebassets\StudentManager.Website.StaticWebAssets.xml
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\scopedcss\bundle\StudentManager.Website.styles.css
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.TagHelpers.input.cache
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.TagHelpers.output.cache
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.RazorCoreGenerate.cache
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.RazorTargetAssemblyInfo.cache
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.RazorTargetAssemblyInfo.cs
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.Views.pdb
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.csproj.CopyComplete
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.pdb
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.genruntimeconfig.cache
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\Razor\Views\Student\edit.cshtml.g.cs
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\Razor\Views\Student\index.cshtml.g.cs
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\Razor\Views\Student\create.cshtml.g.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/app.db
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/StudentManager.Website.StaticWebAssets.xml
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/StudentManager.Website.exe
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/StudentManager.Website.deps.json
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/StudentManager.Website.runtimeconfig.json
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/StudentManager.Website.runtimeconfig.dev.json
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/StudentManager.Website.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/StudentManager.Website.pdb
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/StudentManager.Website.Views.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/StudentManager.Website.Views.pdb
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Embedded.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.csprojAssemblyReference.cache
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.AssemblyInfoInputs.cache
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.AssemblyInfo.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.csproj.CoreCompileInputs.cache
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.MvcApplicationPartsAssemblyInfo.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.MvcApplicationPartsAssemblyInfo.cache
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.RazorAssemblyInfo.cache
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.RazorAssemblyInfo.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/staticwebassets/StudentManager.Website.StaticWebAssets.Manifest.cache
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/staticwebassets/StudentManager.Website.StaticWebAssets.xml
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/scopedcss/bundle/StudentManager.Website.styles.css
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.TagHelpers.input.cache
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.TagHelpers.output.cache
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.RazorCoreGenerate.cache
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.RazorTargetAssemblyInfo.cache
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.RazorTargetAssemblyInfo.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.Views.pdb
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.csproj.CopyComplete
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.pdb
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/StudentManager.Website.genruntimeconfig.cache
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/Razor/Views/Student/edit.cshtml.g.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/Razor/Views/Student/index.cshtml.g.cs
+D:/Repos/Student Management/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/Razor/Views/Student/create.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/StudentManager.BL.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/bin/Debug/netcoreapp3.1/StudentManager.BL.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/Razor/Views/Student/create.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/Razor/Views/Student/delete.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/Razor/Views/Student/edit.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/obj/Debug/netcoreapp3.1/Razor/Views/Student/index.cshtml.g.cs

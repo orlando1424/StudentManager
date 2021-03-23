@@ -1,29 +1,38 @@
 ﻿<Properties StartupConfiguration="{2598DB7D-054C-4710-A5BD-31BF02DEF983}|Default">
   <MonoDevelop.Ide.ItemProperties.StudentManager.Website PreferredExecutionTarget="/Applications/Firefox.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StudentManager.Console/Test.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentManager.Website/Views/Student/create.cshtml">
     <Files>
-      <File FileName="StudentManager.BL/School.cs" Line="44" Column="1" />
-      <File FileName="StudentManager.Console/Test.cs" Line="14" Column="37" />
+      <File FileName="StudentManager.BL/School.cs" Line="53" Column="10" />
+      <File FileName="StudentManager.Console/Test.cs" Line="14" Column="54" />
+      <File FileName="StudentManager.Website/Controllers/StudentController.cs" Line="18" Column="9" />
+      <File FileName="StudentManager.Website/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="StudentManager.Website/Views/Student/index.cshtml" Line="13" Column="1" />
+      <File FileName="StudentManager.Website/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="StudentManager.Website/Views/Student/create.cshtml" Line="9" Column="1" />
+      <File FileName="StudentManager.Website/Views/Student/delete.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StudentManager" expanded="True">
             <Node name="StudentManager.BL" expanded="True" />
-            <Node name="StudentManager.Console" expanded="True">
-              <Node name="Test.cs" selected="True" />
-            </Node>
+            <Node name="StudentManager.Console" expanded="True" />
             <Node name="StudentManager.Website" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" selected="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Student" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StudentManager.Console PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.StudentManager.BL FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

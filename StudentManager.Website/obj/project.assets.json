@@ -2319,6 +2319,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "StudentManager.BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/StudentManager.BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentManager.BL.dll": {}
+        }
       }
     }
   },
@@ -7378,6 +7388,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "StudentManager.BL/1.0.0": {
+      "type": "project",
+      "path": "../StudentManager.BL/StudentManager.BL.csproj",
+      "msbuildProject": "../StudentManager.BL/StudentManager.BL.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7387,40 +7402,43 @@
       "Microsoft.AspNetCore.Identity.UI >= 3.1.11",
       "Microsoft.EntityFrameworkCore.Sqlite >= 3.1.11",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.11",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.5"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.5",
+      "StudentManager.BL >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Orlando\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/orlandolopez/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repos\\Student Management\\StudentManager\\StudentManager.Website\\StudentManager.Website.csproj",
+      "projectUniqueName": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/StudentManager.Website.csproj",
       "projectName": "StudentManager.Website",
-      "projectPath": "D:\\Repos\\Student Management\\StudentManager\\StudentManager.Website\\StudentManager.Website.csproj",
-      "packagesPath": "C:\\Users\\Orlando\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\Student Management\\StudentManager\\StudentManager.Website\\obj\\",
+      "projectPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/StudentManager.Website.csproj",
+      "packagesPath": "/Users/orlandolopez/.nuget/packages/",
+      "outputPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Orlando\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/orlandolopez/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj": {
+              "projectPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -7476,7 +7494,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }

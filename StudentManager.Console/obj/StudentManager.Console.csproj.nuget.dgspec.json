@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.Console\\StudentManager.Console.csproj": {}
+    "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/StudentManager.Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj": {
+    "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj",
+        "projectUniqueName": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj",
         "projectName": "StudentManager.BL",
-        "projectPath": "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj",
-        "packagesPath": "C:\\Users\\2000207986\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.BL\\obj\\",
+        "projectPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj",
+        "packagesPath": "/Users/orlandolopez/.nuget/packages/",
+        "outputPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\2000207986\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/orlandolopez/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +39,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -56,39 +55,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.Console\\StudentManager.Console.csproj": {
+    "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/StudentManager.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.Console\\StudentManager.Console.csproj",
+        "projectUniqueName": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/StudentManager.Console.csproj",
         "projectName": "StudentManager.Console",
-        "projectPath": "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.Console\\StudentManager.Console.csproj",
-        "packagesPath": "C:\\Users\\2000207986\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.Console\\obj\\",
+        "projectPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/StudentManager.Console.csproj",
+        "packagesPath": "/Users/orlandolopez/.nuget/packages/",
+        "outputPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Console/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\2000207986\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/orlandolopez/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj": {
-                "projectPath": "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj"
+              "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj": {
+                "projectPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj"
               }
             }
           }
@@ -101,6 +98,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -116,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }
