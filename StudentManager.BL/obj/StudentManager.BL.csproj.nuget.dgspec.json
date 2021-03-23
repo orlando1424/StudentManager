@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj": {}
+    "C:\\Users\\2000207986\\Documents\\Repos\\StudentManager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj": {
+    "C:\\Users\\2000207986\\Documents\\Repos\\StudentManager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj",
+        "projectUniqueName": "C:\\Users\\2000207986\\Documents\\Repos\\StudentManager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj",
         "projectName": "StudentManager.BL",
-        "projectPath": "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj",
+        "projectPath": "C:\\Users\\2000207986\\Documents\\Repos\\StudentManager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj",
         "packagesPath": "C:\\Users\\2000207986\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.BL\\obj\\",
+        "outputPath": "C:\\Users\\2000207986\\Documents\\Repos\\StudentManager\\StudentManager\\StudentManager.BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
