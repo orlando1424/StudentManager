@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HXaZR75Cf0AOtQt1SiOMxkW1KDFkJCAJetiN8sOiu42aKH0qQo9ki+g32YrC0477wDFjc88LAc3SqNZR0B26gQ==",
+  "dgSpecHash": "p6AC7nU30QfMsPIprADl9KroDaydo3yV3ETs9W/rCyZcz5cER37ti9UZOJgFXbVDg+EFDYTNd3cen7gfHSVdrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2000207986\\Documents\\Repos\\StudentManager\\StudentManager\\StudentManager.Console\\StudentManager.Console.csproj",
+  "projectFilePath": "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.Console\\StudentManager.Console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

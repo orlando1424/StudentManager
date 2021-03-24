@@ -7413,11 +7413,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2000207986\\Documents\\Repos\\StudentManager\\StudentManager\\StudentManager.Website\\StudentManager.Website.csproj",
+      "projectUniqueName": "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.Website\\StudentManager.Website.csproj",
       "projectName": "StudentManager.Website",
-      "projectPath": "C:\\Users\\2000207986\\Documents\\Repos\\StudentManager\\StudentManager\\StudentManager.Website\\StudentManager.Website.csproj",
+      "projectPath": "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.Website\\StudentManager.Website.csproj",
       "packagesPath": "C:\\Users\\2000207986\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2000207986\\Documents\\Repos\\StudentManager\\StudentManager\\StudentManager.Website\\obj\\",
+      "outputPath": "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.Website\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -7437,8 +7437,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\2000207986\\Documents\\Repos\\StudentManager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj": {
-              "projectPath": "C:\\Users\\2000207986\\Documents\\Repos\\StudentManager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj"
+            "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj": {
+              "projectPath": "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj"
             }
           }
         }

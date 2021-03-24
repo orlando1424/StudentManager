@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using StudentManager.BL;
 using StudentManager.Website.Models;
 
 namespace StudentManager.Website.Controllers
@@ -20,7 +21,8 @@ namespace StudentManager.Website.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            School school = new School();
+            return View(school.GetAllStudents());
         }
 
         public IActionResult Privacy()

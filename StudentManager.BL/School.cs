@@ -64,6 +64,7 @@ namespace StudentManager.BL
         {
             Student delStudent = GetStudentById(id);
             Students.Remove(delStudent);
+           
         }
 
     }

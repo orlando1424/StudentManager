@@ -1,8 +1,27 @@
-﻿@{
+﻿@model List<StudentManager.BL.Student>
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h2 class="display-4">Welcome! This application allows you to manage your students</h2>
+
+     @*<p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>*@
+</div>
+
+<div>
+    <h3>Here is a list of your current students:</h3>
+
+    <ul class="list-group">
+        @foreach (var item in Model)
+        {
+            <li class="list-group-item">@item.Name</li>
+        }
+    </ul>
+    <br />
+</div>
+
+<div>
+    <a class="btn btn-outline-dark" asp-controller="Student" asp-action="create"  role="button">Add a new student</a>
+    <a class="btn btn-outline-dark" asp-controller="Student" asp-action="delete" role="button">Delete a student</a>
 </div>

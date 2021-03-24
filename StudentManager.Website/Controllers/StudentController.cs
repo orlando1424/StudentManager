@@ -16,6 +16,15 @@ namespace StudentManager.Website.Controllers
             return View(school.GetAllStudents());
         }
 
+        public IActionResult create()
+        {
+            return View();
+        }
+
+        public IActionResult delete()
+        {
+            return View();
+        }
         
     }
 }
