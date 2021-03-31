@@ -1,17 +1,27 @@
-﻿
+﻿@model StudentManager.BL.School
 @{
     ViewData["Title"] = "Add new student";
 }
 
 <h1>Add a new Student</h1>
 
-<form>
+<form asp-action="create" method="post" role="form">
+    
+    <div class="form-group">
+        <label>Student ID:</label>
+        <input id="id" /> <br />
+        <label for="name">Name:</label>
+        <input id="name" />
+
+        <input type="submit" value="Submit" class="btn btn-outline-dark" />
+
+    </div>
 
 </form>
 
 
 <div>
-    <p>Go back to all students</p>
+    <h4>Go back to all students</h4>
     <a class="btn btn-outline-dark" asp-controller="Student" asp-action="Index">List of Students</a>
 </div>
 

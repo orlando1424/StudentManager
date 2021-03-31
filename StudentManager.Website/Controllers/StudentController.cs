@@ -15,9 +15,17 @@ namespace StudentManager.Website.Controllers
             School school = new School();
             return View(school.GetAllStudents());
         }
-
         public IActionResult create()
         {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult create(Student student, Program program)
+        {
+            School school = new School();
+            int studentId = student.ID;
+            string name = student.Name;
             return View();
         }
 
