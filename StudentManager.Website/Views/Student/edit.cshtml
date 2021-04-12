@@ -1,7 +1,39 @@
 ﻿
-@{
-    ViewData["Title"] = "edit";
+@model StudentManager.Website.Models.CreateStudentViewModel
+
+    @{
+       ViewData["Title"] = "Edit";
 }
 
-<h1>edit</h1>
+<h1>Edit a Student</h1>
 
+<form asp-action="edit" method="post" role="form">
+
+    <div class="form-group">
+        <label for="StudentId">Student ID:</label>
+        @*<input id="StudentId" asp-for="StudentId" class="form-control" />*@
+
+        <select id="StudentId" asp-for="StudentId" class="form-control">
+            @foreach (var student in Model.ExistingStudents)
+            {
+                <option value="@student.ID">@student.ID</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="Name">Name:</label>
+        <input id="Name" asp-for="Name" class="form-control" />
+
+    </div>
+    <div class="form-group">
+        <label for="Program">Program:</label>
+        <select id="Program" asp-for="ProgramId" class="form-control">
+            @foreach (var item in Model.ExistingPrograms)
+            {
+                <option value="@item.Id">@item.Name</option>
+            }
+        </select>
+    </div>
+    <input type="submit" value="Submit" class="btn btn-outline-dark" />
+
+</form>

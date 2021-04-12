@@ -79,5 +79,12 @@ namespace StudentManager.BL
             Students.Remove(delStudent);
         }
 
+        public void EditStudent(int id, string name, Program program)
+        {
+            Student editStudent = GetStudentById(id);
+            Students.Find(editStudent => editStudent.Name == name);
+            Students.Find(editStudent => editStudent.Program == program);
+        }
+
     }
 }

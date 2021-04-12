@@ -59,5 +59,23 @@ namespace StudentManager.Website.Controllers
             return RedirectToAction("Index");
         }
 
+     
+        public IActionResult edit()
+        {
+            CreateStudentViewModel vm = new CreateStudentViewModel();
+            vm.ExistingStudents = school.GetAllStudents();
+            vm.ExistingPrograms = school.GetAllPrograms();
+            return View(vm);
+        }
+
+        [HttpPost]
+
+        public IActionResult edit(CreateStudentViewModel viewModel)
+        {
+            school.EditStudent(viewModel.StudentId, viewModel.Name, school.GetProgramById(viewModel.ProgramId));
+
+            return RedirectToAction("Index");
+        }
+
     }
 }
