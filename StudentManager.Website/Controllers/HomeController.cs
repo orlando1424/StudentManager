@@ -21,7 +21,7 @@ namespace StudentManager.Website.Controllers
 
         public IActionResult Index()
         {
-            School school = new School();
+            School school = School.CreateSchool();
             return View(school.GetAllStudents());
         }
 

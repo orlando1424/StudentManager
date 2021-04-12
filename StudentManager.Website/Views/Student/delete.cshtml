@@ -1,18 +1,21 @@
-﻿@model StudentManager.BL.School
+﻿@model List<StudentManager.BL.Student>
 @{
     ViewData["Title"] = "Delete";
 }
 
 <h1>Delete a Student</h1>
 
-<form asp-action="create" method="post" role="form">
+<form asp-action="delete" method="post" role="form">
 
     <div class="form-group">
         <label>Student ID:</label>
       
-            <input id="id" class="form-control" />
-            @*<label for="name">Name:</label>
-        <input id="name" />*@
+        <select name="id" id="id">
+            @foreach (var item in Model)
+            {
+                <option value="@item.ID">@item.Name</option>
+            }
+        </select>
      
     </div>
     <input type="submit" value="Submit" class="btn btn-outline-dark" />

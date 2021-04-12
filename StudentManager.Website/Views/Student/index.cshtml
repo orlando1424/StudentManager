@@ -5,13 +5,27 @@
 
 <h1>@ViewData["Title"]</h1>
 
+
     @foreach (var item in Model)
     {
-        <p>@item.Name</p>
-        <ul>
-            <li>@item.Program.Name.ToString()</li>
-        </ul>
+    <div class="row">
+        <div class="col-sm">
+            <p>@item.Name</p>
+            <ul>
+                <li>@item.Program.Name.ToString()</li>
+            </ul>
+        </div>
+    </div>
     }
+
+
+   <br />
+   <br />
+  
+    <div class="form-group">
+        <a class="btn btn-outline-dark" asp-controller="Student" asp-action="create" role="button">Add a new student</a>
+        <a class="btn btn-outline-dark" asp-controller="Student" asp-action="delete" role="button">Delete a student</a>
+    </div>
 
 
 

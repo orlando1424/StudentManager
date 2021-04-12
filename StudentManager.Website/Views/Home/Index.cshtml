@@ -12,13 +12,21 @@
 <div>
     <h3>Here is a list of your current students:</h3>
 
-    <ul class="list-group">
+    
         @foreach (var item in Model)
         {
-            <li class="list-group-item">@item.Name</li>
-            <li class="list-group-item">@item.Program.Name</li>
+            <div class="row">
+                <div class="col-sm">
+                    <p>@item.Name</p>
+                    <ul>
+                        <li>@item.Program.Name.ToString()</li>
+                    </ul>
+                </div>
+            </div>
+            @*<li class="list-group-item">@item.Name</li>
+            <li class="list-group-item">@item.Program.Name</li>*@
         }
-    </ul>
+    
     <br />
 </div>
 

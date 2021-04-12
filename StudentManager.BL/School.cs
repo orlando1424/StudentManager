@@ -6,11 +6,20 @@ namespace StudentManager.BL
 {
     public class School
     {
-        public List<Student> Students { get; set; }
-        public List<Program> Programs { get; set; }
+        /*Singleton*/
+        public static School school;
+
+        public static School CreateSchool()
+        {
+            if (school == null)
+                school = new School();
+            return school;
+        }
+        private List<Student> Students;
+        private List<Program> Programs;
 
         // School Constructor 
-        public School()
+        private School()
         {
 
             // List for Programs
@@ -21,13 +30,15 @@ namespace StudentManager.BL
             Program program2 = new Program() { Id = 2, Name = "C# - Intro" };
             Program program3 = new Program() { Id = 3, Name = "SQL and Databases" };
             Program program4 = new Program() { Id = 4, Name = ".NET Development and MVC" };
-           
+            Program program5 = new Program() { Id = 4, Name = "Javascript Basics" };
+
 
             // add programs to the Programs List
             Programs.Add(program1);
             Programs.Add(program2);
             Programs.Add(program3);
             Programs.Add(program4);
+            Programs.Add(program5);
 
             // List for Students
             Students = new List<Student>();
@@ -49,6 +60,8 @@ namespace StudentManager.BL
         public List<Student> GetAllStudents() => Students;
 
         public List<Program> GetAllPrograms() => Programs;
+
+        public Program GetProgramById(int id) => Programs.SingleOrDefault(p => p.Id == id);
 
         public void AddStudent(int id, string name, Program program)
         {

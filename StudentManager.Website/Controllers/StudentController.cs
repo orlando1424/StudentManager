@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using StudentManager.BL;
+using StudentManager.Website.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,29 +11,53 @@ namespace StudentManager.Website.Controllers
 {
     public class StudentController : Controller
     {
+        School school;
+
+        public StudentController()
+        {
+            school = School.CreateSchool();
+        }
         public IActionResult Index()
         {
-            School school = new School();
             return View(school.GetAllStudents());
         }
         public IActionResult create()
         {
-            return View();
+            CreateStudentViewModel vm = new CreateStudentViewModel();
+            vm.ExistingPrograms = school.GetAllPrograms();
+            return View(vm);
         }
 
         [HttpPost]
-        public ActionResult create(Student student, Program program)
+        public IActionResult create(CreateStudentViewModel viewModel)
         {
-            School school = new School();
+            /*School school = new School();
             int studentId = student.ID;
-            string name = student.Name;
-            return View();
+            string name = student.Name; */
+            
+            school.AddStudent(viewModel.StudentId, viewModel.Name, school.GetProgramById(viewModel.ProgramId));
+
+            /* if (!valid) {
+                viewModel.ExistingPrograms = school.GetAllPrograms().ToList(); 
+                return View(viewModel);
+               }
+             */
+                
+            return RedirectToAction("Index");
         }
 
         public IActionResult delete()
         {
-            return View();
+
+            return View(school.GetAllStudents());
         }
-        
+
+        [HttpPost]
+        public IActionResult delete(IFormCollection collection)
+        {
+            school.DeleteStudent(int.Parse(collection["id"]));
+            return RedirectToAction("Index");
+        }
+
     }
 }

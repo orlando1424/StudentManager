@@ -9,7 +9,7 @@ namespace StudentManager.Console
     {
         static void Main(string[] args)
         {
-            School school = new School();
+            School school = School.CreateSchool();
             
             DisplayStudents(school.GetAllStudents());
             school.AddStudent(6, "Joe Smith", new Program() { Id = 100, Name = "Corey's Amazing Course" });
