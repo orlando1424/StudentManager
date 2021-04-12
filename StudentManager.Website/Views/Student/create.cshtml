@@ -6,21 +6,32 @@
 <h1>Add a new Student</h1>
 
 <form asp-action="create" method="post" role="form">
-    
+
     <div class="form-group">
         <label>Student ID:</label>
-        <input id="id" /> <br />
+        <input id="id" class="form-control" />
+    </div>
+    <div class="form-group">
         <label for="name">Name:</label>
-        <input id="name" />
-
-        <input type="submit" value="Submit" class="btn btn-outline-dark" />
+        <input id="name" class="form-control"/>
 
     </div>
+    <div class="form-group">
+        <label for="program">Program:</label>
+        <select id="program" class="form-control">
+            <option value="Quantum Physics">Quantum Physics</option>
+            <option value="C# Intro">C# - Intro</option>
+            <option value="SQL and Databases">SQL and Databases</option>
+            <option value=".NET Development and MVC">.NET Development and MVC</option>
+        </select>
+    </div>
+    <input type="submit" value="Submit" class="btn btn-outline-dark" />
 
 </form>
 
-
-<div>
+<br />
+<br />
+<div class="form-group">
     <h4>Go back to all students</h4>
     <a class="btn btn-outline-dark" asp-controller="Student" asp-action="Index">List of Students</a>
 </div>
