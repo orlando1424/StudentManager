@@ -1,5 +1,4 @@
-﻿
-<!--
+﻿@model StudentManager.Website.Models.CreateStudentViewModel
 
     @{
        ViewData["Title"] = "Edit";
@@ -10,10 +9,10 @@
 <form asp-action="edit" method="post" role="form">
 
     <div class="form-group">
-        <label for="StudentId">Student ID:</label>-->
+        <label for="StudentId">Student ID:</label>
         @*<input id="StudentId" asp-for="StudentId" class="form-control" />*@
 
-        <!--<select id="StudentId" asp-for="StudentId" class="form-control">
+        <select id="StudentId" asp-for="StudentId" class="form-control">
             @foreach (var student in Model.ExistingStudents)
             {
                 <option value="@student.ID">@student.ID</option>
@@ -36,4 +35,4 @@
     </div>
     <input type="submit" value="Submit" class="btn btn-outline-dark" />
 
-</form>-->
+</form>

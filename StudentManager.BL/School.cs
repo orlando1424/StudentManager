@@ -63,7 +63,7 @@ namespace StudentManager.BL
 
         public List<Program> GetAllPrograms() => Programs;
 
-        public Program GetProgramById(int id) => Programs.SingleOrDefault(p => p.Id == id);
+        public Program GetProgramById(int id) => Programs.FirstOrDefault(p => p.Id == id);
 
         public void AddStudent(int id, string name, Program program)
         {

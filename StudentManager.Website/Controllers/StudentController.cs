@@ -80,7 +80,10 @@ namespace StudentManager.Website.Controllers
 
         public IActionResult edit(CreateStudentViewModel viewModel)
         {
-            school.EditStudent(viewModel.StudentId, viewModel.Name, school.GetProgramById(viewModel.ProgramId));
+            //school.EditStudent(viewModel.StudentId, viewModel.Name, school.GetProgramById(viewModel.ProgramId));
+
+            school.DeleteStudent(viewModel.StudentId);
+            school.AddStudent(viewModel.StudentId, viewModel.Name, school.GetProgramById(viewModel.ProgramId));
 
             return RedirectToAction("Index");
         }
