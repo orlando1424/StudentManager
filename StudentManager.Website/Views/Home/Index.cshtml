@@ -13,22 +13,32 @@
     <h3>Here is a list of your current students:</h3>
 
     
-        @foreach (var item in Model)
-        {
-            <div class="row">
-                <div class="col-sm">
-                    <p>@item.Name</p>
-                    <ul>
-                        <li>@item.Program.Name.ToString()</li>
-                    </ul>
-                </div>
-            </div>
-            @*<li class="list-group-item">@item.Name</li>
-            <li class="list-group-item">@item.Program.Name</li>*@
-        }
+      
     
     <br />
 </div>
+
+<table class="table table-striped">
+    <thead>
+
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Program</th>
+        </tr>
+    </thead>
+    @foreach (var student in Model)
+    {
+        <tbody>
+            <tr>
+                <th scope="row">@student.ID</th>
+                <td>@student.Name</td>
+                <td>@student.Program.Name.ToString()</td>
+            </tr>
+
+        </tbody>
+    }
+</table>
 
 <div>
     <a class="btn btn-outline-dark" asp-controller="Student" asp-action="create" role="button">Add a new student</a>
