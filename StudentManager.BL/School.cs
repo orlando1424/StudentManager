@@ -48,12 +48,14 @@ namespace StudentManager.BL
             Student student2 = new Student() { ID = 2, Name = "John James", Program = program2 };
             Student student3 = new Student() { ID = 3, Name = "Orlando Lopez", Program = program3 };
             Student student4 = new Student() { ID = 4, Name = "Cristiano Ronaldo", Program = program4 };
+            //Student student5 = new Student() { ID = 5, Name = "Johnny Test", Program = program5 };
 
             // add students to Student List
             Students.Add(student1);
             Students.Add(student2);
             Students.Add(student3);
             Students.Add(student4);
+            //Students.Add(student5);
 
         }
 
