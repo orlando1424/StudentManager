@@ -34,8 +34,16 @@ namespace StudentManager.Website.Controllers
             /*School school = new School();
             int studentId = student.ID;
             string name = student.Name; */
+            try
+            {
+                school.AddStudent(viewModel.StudentId, viewModel.Name, school.GetProgramById(viewModel.ProgramId));
+            }
+            catch (Exception ex)
+            {
+                viewModel.ExistingPrograms = school.GetAllPrograms();
+                return View(viewModel);
+            }
             
-            school.AddStudent(viewModel.StudentId, viewModel.Name, school.GetProgramById(viewModel.ProgramId));
 
             /* if (!valid) {
                 viewModel.ExistingPrograms = school.GetAllPrograms().ToList(); 

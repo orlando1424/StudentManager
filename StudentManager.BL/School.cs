@@ -67,12 +67,15 @@ namespace StudentManager.BL
 
         public void AddStudent(int id, string name, Program program)
         {
-            Students.Add(new Student() { ID = id, Name = name, Program = program });
+            if (GetStudentById(id) == null)
+                Students.Add(new Student() { ID = id, Name = name, Program = program });
+            else
+                throw new Exception("Student ID already exists");
         }
 
         public Student GetStudentById(int id)
         {
-            return Students.SingleOrDefault(s => s.ID == id);
+            return Students.FirstOrDefault(s => s.ID == id);
         }
 
         public void DeleteStudent(int id)
