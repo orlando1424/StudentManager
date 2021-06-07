@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9DgZRyWUxiYL9rCF0o/0xoQmqXJ1qlDinaVhKgLHbhottWrf8ld7v02ZQWTlxa5s0b/TonQ73tf+WOGtVtoZ8Q==",
+  "dgSpecHash": "SjmGd4Re4Od+YYAGHdSrCSBK9vfzhZosfqRTZs4U2L8odtfQPGOrmrT9FrrEGZ0LZUxuACmoIUGoRpSRSfQ4VQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2000207986\\Documents\\Repos\\Student Manager\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj",
+  "projectFilePath": "D:\\Repos\\Student Management\\StudentManager\\StudentManager.BL\\StudentManager.BL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
