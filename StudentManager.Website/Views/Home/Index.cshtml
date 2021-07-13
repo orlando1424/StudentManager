@@ -34,14 +34,16 @@
                 <th scope="row">@student.ID</th>
                 <td>@student.Name</td>
                 <td>@student.Program.Name.ToString()</td>
+                @*<td><a class="btn btn-outline-dark" asp-controller="Student" asp-action="create" role="button">Add a new student</a></td>*@
+                <td><a class="btn btn-outline-dark" asp-controller="Student" asp-action="delete" role="button">Delete</a></td>
+                <td><a class="btn btn-outline-dark" asp-controller="Student" asp-action="edit" role="button">Edit</a></td>
             </tr>
-
         </tbody>
     }
 </table>
 
 <div>
     <a class="btn btn-outline-dark" asp-controller="Student" asp-action="create" role="button">Add a new student</a>
-    <a class="btn btn-outline-dark" asp-controller="Student" asp-action="delete" role="button">Delete a student</a>
-    <a class="btn btn-outline-dark" asp-controller="Student" asp-action="edit" role="button">Edit a student</a>
+    @*<a class="btn btn-outline-dark" asp-controller="Student" asp-action="delete" role="button">Delete a student</a>
+    <a class="btn btn-outline-dark" asp-controller="Student" asp-action="edit" role="button">Edit a student</a>*@
 </div>

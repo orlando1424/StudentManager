@@ -9,7 +9,7 @@ namespace StudentManager.BL
         /*Singleton*/
         public static School school;
 
-        // check if school is already instantiated 
+        // check if school is already instantiated this constructor also creates a new "school"
         public static School CreateSchool()
         {
             if (school == null)
@@ -60,11 +60,11 @@ namespace StudentManager.BL
 
         }
 
-        // constructor to get all students
+        // method to get all students
         public List<Student> GetAllStudents() => Students;
-        // constructor to get all programs
+        // method to get all programs
         public List<Program> GetAllPrograms() => Programs;
-        //constructor to get program by ID
+        //method to get program by ID
         public Program GetProgramById(int id) => Programs.FirstOrDefault(p => p.Id == id);
 
         public void AddStudent(int id, string name, Program program)

@@ -21,6 +21,7 @@ namespace StudentManager.Website.Controllers
 
         public IActionResult Index()
         {
+            // creates an instance of school and returns all the students
             School school = School.CreateSchool();
             return View(school.GetAllStudents());
         }
