@@ -513,7 +513,6 @@ C:\Users\2000207986\Documents\Repos\Student Manager\StudentManager\StudentManage
 C:\Users\2000207986\Documents\Repos\Student Manager\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.pdb
 C:\Users\2000207986\Documents\Repos\Student Manager\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.genruntimeconfig.cache
 C:\Users\2000207986\Documents\Repos\Student Manager\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\scopedcss\bundle\StudentManager.Website.styles.css
-D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.csprojAssemblyReference.cache
 D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.AssemblyInfoInputs.cache
 D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.AssemblyInfo.cs
 D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.csproj.CoreCompileInputs.cache
@@ -685,3 +684,4 @@ D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netc
 D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.csproj.CopyComplete
 D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.genruntimeconfig.cache
 D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.MvcApplicationPartsAssemblyInfo.cs
+D:\Repos\Student Management\StudentManager\StudentManager.Website\obj\Debug\netcoreapp3.1\StudentManager.Website.csproj.AssemblyReference.cache

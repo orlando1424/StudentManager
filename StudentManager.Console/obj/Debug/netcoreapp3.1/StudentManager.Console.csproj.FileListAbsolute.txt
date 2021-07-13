@@ -37,7 +37,6 @@ D:\Repos\Student Management\StudentManager\StudentManager.Console\bin\Debug\netc
 D:\Repos\Student Management\StudentManager\StudentManager.Console\bin\Debug\netcoreapp3.1\StudentManager.Console.pdb
 D:\Repos\Student Management\StudentManager\StudentManager.Console\bin\Debug\netcoreapp3.1\StudentManager.BL.dll
 D:\Repos\Student Management\StudentManager\StudentManager.Console\bin\Debug\netcoreapp3.1\StudentManager.BL.pdb
-D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netcoreapp3.1\StudentManager.Console.csprojAssemblyReference.cache
 D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netcoreapp3.1\StudentManager.Console.AssemblyInfoInputs.cache
 D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netcoreapp3.1\StudentManager.Console.AssemblyInfo.cs
 D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netcoreapp3.1\StudentManager.Console.csproj.CoreCompileInputs.cache
@@ -45,3 +44,4 @@ D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netc
 D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netcoreapp3.1\StudentManager.Console.dll
 D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netcoreapp3.1\StudentManager.Console.pdb
 D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netcoreapp3.1\StudentManager.Console.genruntimeconfig.cache
+D:\Repos\Student Management\StudentManager\StudentManager.Console\obj\Debug\netcoreapp3.1\StudentManager.Console.csproj.AssemblyReference.cache

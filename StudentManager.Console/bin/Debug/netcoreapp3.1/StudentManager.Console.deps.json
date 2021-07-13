@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StudentManager.Console/1.0.0": {
+        "dependencies": {
+          "StudentManager.BL": "1.0.0"
+        },
+        "runtime": {
+          "StudentManager.Console.dll": {}
+        }
+      },
+      "StudentManager.BL/1.0.0": {
+        "runtime": {
+          "StudentManager.BL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentManager.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentManager.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
