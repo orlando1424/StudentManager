@@ -11,28 +11,8 @@
       <File FileName="StudentManager.Website/Views/Student/create.cshtml" />
       <File FileName="StudentManager.Website/Views/Student/delete.cshtml" />
       <File FileName="StudentManager.Website/Program.cs" />
-      <File FileName="StudentManager.BL/Student.cs" Line="24" Column="1" />
+      <File FileName="StudentManager.BL/Student.cs" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="StudentManager" expanded="True">
-            <Node name="StudentManager.BL" expanded="True" />
-            <Node name="StudentManager.Console" expanded="True" />
-            <Node name="StudentManager.Website" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="StudentController.cs" selected="True" />
-              </Node>
-              <Node name="Data" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-                <Node name="Student" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.StudentManager.Console PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
