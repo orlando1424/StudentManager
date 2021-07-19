@@ -6,3 +6,4 @@ D:\Repos\Student Management\StudentManager\StudentManager.BL\obj\Release\netcore
 D:\Repos\Student Management\StudentManager\StudentManager.BL\obj\Release\netcoreapp3.1\StudentManager.BL.csproj.CoreCompileInputs.cache
 D:\Repos\Student Management\StudentManager\StudentManager.BL\obj\Release\netcoreapp3.1\StudentManager.BL.dll
 D:\Repos\Student Management\StudentManager\StudentManager.BL\obj\Release\netcoreapp3.1\StudentManager.BL.pdb
+D:\Repos\Student Management\StudentManager\StudentManager.BL\obj\Release\netcoreapp3.1\StudentManager.BL.csproj.AssemblyReference.cache
