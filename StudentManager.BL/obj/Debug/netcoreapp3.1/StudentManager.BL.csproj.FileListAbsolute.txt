@@ -34,3 +34,12 @@ D:/Repos/Student Management/StudentManager/StudentManager.BL/obj/Debug/netcoreap
 D:/Repos/Student Management/StudentManager/StudentManager.BL/obj/Debug/netcoreapp3.1/StudentManager.BL.pdb
 D:/Repos/Student Management/StudentManager/StudentManager.BL/obj/Debug/netcoreapp3.1/StudentManager.BL.csproj.AssemblyReference.cache
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/obj/Debug/netcoreapp3.1/StudentManager.BL.csproj.AssemblyReference.cache
+/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/bin/Debug/netcoreapp3.1/StudentManager.BL.deps.json
+/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/bin/Debug/netcoreapp3.1/StudentManager.BL.dll
+/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/bin/Debug/netcoreapp3.1/StudentManager.BL.pdb
+/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/obj/Debug/netcoreapp3.1/StudentManager.BL.csproj.AssemblyReference.cache
+/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/obj/Debug/netcoreapp3.1/StudentManager.BL.AssemblyInfoInputs.cache
+/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/obj/Debug/netcoreapp3.1/StudentManager.BL.AssemblyInfo.cs
+/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/obj/Debug/netcoreapp3.1/StudentManager.BL.csproj.CoreCompileInputs.cache
+/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/obj/Debug/netcoreapp3.1/StudentManager.BL.dll
+/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/obj/Debug/netcoreapp3.1/StudentManager.BL.pdb

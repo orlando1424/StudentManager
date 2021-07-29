@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hmIeJ3h0SF0fN4qkKdZScYV006GHGhQBT4ZV8+ip9VkxKkFIzOBeyUlwJTAVnyOauw3OXX05Dk8bdgOGovtT0Q==",
+  "dgSpecHash": "MjKTValafawTCEzGehKQpivV7bXrDWe4WLPCjRUhbthM3o9de0Xu7VAGS1m7TT9stjIzlhlKoWvOLwqEwaAjgw==",
   "success": true,
-  "projectFilePath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/StudentManager.Website.csproj",
+  "projectFilePath": "/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.Website/StudentManager.Website.csproj",
   "expectedPackageFiles": [
     "/Users/orlandolopez/.nuget/packages/microsoft.aspnetcore.cryptography.internal/3.1.11/microsoft.aspnetcore.cryptography.internal.3.1.11.nupkg.sha512",
     "/Users/orlandolopez/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/3.1.11/microsoft.aspnetcore.cryptography.keyderivation.3.1.11.nupkg.sha512",

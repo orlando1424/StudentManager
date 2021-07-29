@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/StudentManager.Website.csproj": {}
+    "/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.Website/StudentManager.Website.csproj": {}
   },
   "projects": {
-    "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj": {
+    "/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj",
+        "projectUniqueName": "/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj",
         "projectName": "StudentManager.BL",
-        "projectPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj",
+        "projectPath": "/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj",
         "packagesPath": "/Users/orlandolopez/.nuget/packages/",
-        "outputPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/obj/",
+        "outputPath": "/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -59,14 +59,14 @@
         }
       }
     },
-    "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/StudentManager.Website.csproj": {
+    "/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.Website/StudentManager.Website.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/StudentManager.Website.csproj",
+        "projectUniqueName": "/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.Website/StudentManager.Website.csproj",
         "projectName": "StudentManager.Website",
-        "projectPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/StudentManager.Website.csproj",
+        "projectPath": "/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.Website/StudentManager.Website.csproj",
         "packagesPath": "/Users/orlandolopez/.nuget/packages/",
-        "outputPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.Website/obj/",
+        "outputPath": "/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.Website/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -84,8 +84,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj": {
-                "projectPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj"
+              "/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj": {
+                "projectPath": "/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj"
               }
             }
           }

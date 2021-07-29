@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj",
+      "projectUniqueName": "/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj",
       "projectName": "StudentManager.BL",
-      "projectPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj",
+      "projectPath": "/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/StudentManager.BL.csproj",
       "packagesPath": "/Users/orlandolopez/.nuget/packages/",
-      "outputPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/StudentManager/StudentManager.BL/obj/",
+      "outputPath": "/Users/orlandolopez/Documents/Repos/StudentManager/StudentManager.BL/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
